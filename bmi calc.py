@@ -101,7 +101,7 @@ class bmi:
         #list
 
         bmilist=Listbox(listframe,width=60,height=2,font=('arial',12,'bold'))
-        bmilist.grid(row=0,column=0,padx=8)
+        bmilist.grid(row=0,column=0,padx=10)
 
         
 
